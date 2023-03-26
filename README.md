@@ -1,4 +1,1 @@
-# Im Starting to GIT it !!
-
-This is a collection of all the Python programs I worked on
-for the Spring 2020 semester.
+This is a group project that was done for the AI in Python class at The University of Texas at Tyler.
